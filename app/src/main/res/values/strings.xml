@@ -1,0 +1,10 @@
+<resources>
+    <string name="app_name">VOYPro</string>
+
+    <string name="navigation_drawer_open">Open navigation drawer</string>
+    <string name="navigation_drawer_close">Close navigation drawer</string>
+    <string name="action_add">확인</string>
+    <string name="action_end">완료</string>
+    <string name="action_del">삭제</string>
+    <string name="action_settings">Settings</string>
+</resources>
